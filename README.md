@@ -8,3 +8,7 @@ Se visualizan 3 graficos:
 Histogramas
 Graficos de dispersion
 Boxplot
+
+link de la app:
+
+https://proyecto5mr.onrender.com
